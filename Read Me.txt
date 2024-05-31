@@ -1,0 +1,29 @@
+Pl8inum 1.0
+-----------
+by Hopper
+
+----------------------------------------------------------------
+DESCRIPTION:
+Pl8tinum is a GUI theme for Aleph One, based on Apple's "Platinum" interface for Mac OS 8 and 9.
+
+----------------------------------------------------------------
+INSTALLATION:
+- Drag the downloaded .zip file, or the unzipped "Pl8inum" folder, into the "Plugins" folder inside your M1A1, Marathon 2, or Marathon Infinity folders. (Create a "Plugins" folder if you don't already have one.)
+- Launch Aleph One, and go to "Preferences", then "Environment", then "Plugins" and make sure the plugin is listed as "Enabled". You can click on it to turn it on or off.
+
+----------------------------------------------------------------
+CHANGELOG:
+
+v1.0:
+* First release
+
+----------------------------------------------------------------
+SPECIAL THANKS:
+Everyone who enjoyed Halatheme and System Se7en - thanks for your support!
+Apple - For obvious reasons
+Treellama - For creating the theming engine, and answering questions
+
+----------------------------------------------------------------
+CONTACT:
+If you have any questions, comments, or bugs to report, you can email me:
+- hopper@whpress.com
